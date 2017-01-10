@@ -1,0 +1,8 @@
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\bin\Debug\lab_6_server.exe
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\bin\Debug\lab_6_server.pdb
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\obj\Debug\lab_6_server.Form1.resources
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\obj\Debug\lab_6_server.Properties.Resources.resources
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\obj\Debug\lab_6_server.csproj.GenerateResource.Cache
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\obj\Debug\lab_6_server.exe
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\obj\Debug\lab_6_server.pdb
+C:\Users\Женя\Documents\Visual Studio 2015\Projects\lab_6_server\lab_6_server\obj\Debug\lab_6_server.csprojResolveAssemblyReference.cache
